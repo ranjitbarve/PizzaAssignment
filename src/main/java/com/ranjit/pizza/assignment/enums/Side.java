@@ -1,4 +1,4 @@
-package com.ranjit.pizza.assignment;
+package com.ranjit.pizza.assignment.enums;
 
 public enum Side {
     COLD_DRINK(55),

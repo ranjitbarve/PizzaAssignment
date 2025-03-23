@@ -1,4 +1,4 @@
-package com.ranjit.pizza.assignment;
+package com.ranjit.pizza.assignment.enums;
 
 public enum Topping {
     BLACK_OLIVE(20, false),

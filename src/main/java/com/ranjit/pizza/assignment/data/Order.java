@@ -1,4 +1,6 @@
-package com.ranjit.pizza.assignment;
+package com.ranjit.pizza.assignment.data;
+
+import com.ranjit.pizza.assignment.enums.Side;
 
 import java.util.ArrayList;
 import java.util.List;

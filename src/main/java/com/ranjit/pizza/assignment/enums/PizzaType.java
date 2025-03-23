@@ -1,4 +1,4 @@
-package com.ranjit.pizza.assignment;
+package com.ranjit.pizza.assignment.enums;
 
 public enum PizzaType {
     DELUXE_VEGGIE(150, 200, 325, true),

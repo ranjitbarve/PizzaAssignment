@@ -1,4 +1,9 @@
-package com.ranjit.pizza.assignment;
+package com.ranjit.pizza.assignment.data;
+
+import com.ranjit.pizza.assignment.enums.CrustType;
+import com.ranjit.pizza.assignment.enums.PizzaType;
+import com.ranjit.pizza.assignment.enums.Size;
+import com.ranjit.pizza.assignment.enums.Topping;
 
 import java.util.ArrayList;
 import java.util.List;
